@@ -20,42 +20,42 @@ export const CountdownSection = () => {
                                 <div className="flex md:w-[100px] w-[19.2vw] md:h-[100px]   h-[19.2vw] d-flex items-center justify-center md:gap-[14px] gap-[3.733333333333334vw]  bg-[#ffffff0d] md:rounded-[16px] rounded-[4.266666666666667vw]blurr" style={{ border: '1px solid rgba(255,255,255,.1)' }}>
 
                                     <p className='timer md:text-[48px] text-[9.6vw] font-semibold leading-1 text-white relative w-full text-center '>
-                                        20
+                                       01
                                     </p>
 
                                 </div>
-                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">DAYS</p>
+                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">Day</p>
                             </div>
-                            <div className="flex flex-col md:gap-[11px] gap-[2.933333333333333vw] items-center">
+                            {/* <div className="flex flex-col md:gap-[11px] gap-[2.933333333333333vw] items-center">
                                 <div className="flex md:w-[100px] w-[19.2vw] md:h-[100px]   h-[19.2vw] d-flex items-center justify-center md:gap-[14px] gap-[3.733333333333334vw]  bg-[#ffffff0d] md:rounded-[16px] rounded-[4.266666666666667vw]blurr" style={{ border: '1px solid rgba(255,255,255,.1)' }}>
 
                                     <p className='timer md:text-[48px] text-[9.6vw] font-semibold leading-1 text-white relative w-full text-center '>
-                                        20
+                                        1
                                     </p>
 
                                 </div>
-                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">HOURS</p>
-                            </div>
-                            <div className="flex flex-col md:gap-[11px] gap-[2.933333333333333vw] items-center">
+                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">Hours</p>
+                            </div> */}
+                            {/* <div className="flex flex-col md:gap-[11px] gap-[2.933333333333333vw] items-center">
                                 <div className="flex md:w-[100px] w-[19.2vw] md:h-[100px]   h-[19.2vw] d-flex items-center justify-center md:gap-[14px] gap-[3.733333333333334vw]  bg-[#ffffff0d] md:rounded-[16px] rounded-[4.266666666666667vw]blurr" style={{ border: '1px solid rgba(255,255,255,.1)' }}>
 
                                     <p className='timer md:text-[48px] text-[9.6vw] font-semibold leading-1 text-white relative w-full text-center '>
-                                        20
+                                        1
                                     </p>
 
                                 </div>
-                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">MINUTES</p>
-                            </div>
-                            <div className="flex flex-col md:gap-[11px] gap-[2.933333333333333vw] items-center">
+                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">Minutes</p>
+                            </div> */}
+                            {/* <div className="flex flex-col md:gap-[11px] gap-[2.933333333333333vw] items-center">
                                 <div className="flex md:w-[100px] w-[19.2vw] md:h-[100px]   h-[19.2vw] d-flex items-center justify-center md:gap-[14px] gap-[3.733333333333334vw]  bg-[#ffffff0d] md:rounded-[16px] rounded-[4.266666666666667vw]blurr" style={{ border: '1px solid rgba(255,255,255,.1)' }}>
 
                                     <p className='timer md:text-[48px] text-[9.6vw] font-semibold leading-1 text-white relative w-full text-center '>
-                                        20
+                                        1
                                     </p>
 
                                 </div>
-                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">SECONDS</p>
-                            </div>
+                                <p className="md:text-[16px] text-[4.266666666666667vw] font-normal text-white leading-1 opacity-0.6">Seconds</p>
+                            </div> */}
                         </div>
                         <p className="md:h-[40px] h-[9.066666666666666vw]"></p>
                         <button className="rounded-[999px] btn-bg text-black md:w-[200px] w-[88.26666666666667vw] md:h-[50px] h-[13.333333333333334vw] cursor-pointer md:text-[18px] text-[4.8vw] font-semibold">Connect Wallet</button>
