@@ -35,12 +35,12 @@ export const CardsSection = () => {
 
             </div>
             <div className=" md:gap-[24px] gap-[5.6000000000000005vw] flex md:flex-row flex-col">
-                <a href="https://zkbridge.com" target="_blank" class="md:w-[188px] w-[50.13333333333333vw] md:h-[48px] h-[12.8vw] md:text-[16px] text-white text-[4.266666666666667vw] font-normal leading-1.2  bg-[#0000000d] blurr rounded-[9000px] flex items-center justify-center btnn-graident hover:bg_linear-gradient(65deg,_#0CFFF0_0%,_#0CFFA7_98.49%) hover:bg-clip_text hover:-webkit-background-clip_text hover:-webkit-text-fill-color_transparent hover:[&amp;_svg_path]:stroke_#0CFFA7"
+                <a href="https://zkbridge.com" target="_blank" class="md:w-[188px] w-[50.13333333333333vw] md:h-[48px] h-[12.8vw] md:text-[16px] text-white text-[4.266666666666667vw] font-normal leading-1.2  bg-[#0000000d] blurr rounded-[9000px] flex items-center justify-center btnn-graident "
                     style={{ border: '1px solid rgba(255,255,255,.1)' }}>
                     Explore zkBridge
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11 8L15 12L11 16" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>
                 </a>
-                <a href="https://zkbridge.com" target="_blank" class="md:w-[188px] w-[50.13333333333333vw] md:h-[48px] h-[12.8vw] md:text-[16px] text-white text-[4.266666666666667vw] font-normal leading-1.2  bg-[#0000000d] blurr rounded-[9000px] flex items-center justify-center btnn-graident hover:bg_linear-gradient(65deg,_#0CFFF0_0%,_#0CFFA7_98.49%) hover:bg-clip_text hover:-webkit-background-clip_text hover:-webkit-text-fill-color_transparent hover:[&amp;_svg_path]:stroke_#0CFFA7"
+                <a href="https://zkbridge.com" target="_blank" class="md:w-[188px] w-[50.13333333333333vw] md:h-[48px] h-[12.8vw] md:text-[16px] text-white text-[4.266666666666667vw] font-normal leading-1.2  bg-[#0000000d] blurr rounded-[9000px] flex items-center justify-center btnn-graident "
                     style={{ border: '1px solid rgba(255,255,255,.1)' }}>
                     ZK Research
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11 8L15 12L11 16" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg>

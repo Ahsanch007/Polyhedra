@@ -31,3 +31,9 @@ body {
     color: #fbfbfd;
     background: linear-gradient(95.14deg, #e52c43, #ff6c00 91.74%);
   }
+  .btnn-graident:hover{
+    background: linear-gradient(65deg, #0cfff0, #0cffa7 98.49%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
